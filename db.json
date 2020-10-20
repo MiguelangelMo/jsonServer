@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "carne",
+      "desc": "carne molida",
+      "price": "2000",
+      "photo": "2000"
+    },
+    {
+      "name": "Pollo asado",
+      "desc": "Pollo me gusta",
+      "price": "3000",
+      "id": 2
+    },
+    {
+      "name": "Caraotas",
+      "desc": "Caraota",
+      "price": "1200",
+      "id": 3868929
+    }
+  ]
+}
