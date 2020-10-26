@@ -1,6 +1,6 @@
 {
-    "company": [
-     {
+"company": [
+    {
             "id": 1,
             "name": "Nutella",
             "price": 1200,
@@ -80,62 +80,6 @@
             "category": [
                 "Dulces", "DIETA"
             ]
-        }://picsum.photos/208"
-    ],
-    "category": [
-      {
-              "id": 1,
-              "name": "Nutella",
-              "price": 1200,              
-              "photo": "https://picsum.photos/209"
-          },
-          {
-              "id": 2,
-              "name": "Nitrogliserina",
-              "price": 4000,
-              "photo": "https://picsum.photos/210"
-          },
-          {
-              "id": 3,
-              "name": "Cascos",
-              "price": 1500,
-              "photo": "https://picsum.photos/211"
-          },
-          {
-              "id": 4,
-              "name": "Mangueras",
-              "price": 5000,
-              "photo": "https://picsum.photos/212"
-          },
-          {
-              "id": 5,
-              "name": "Radios",
-              "price": 9000,
-              "photo": "https://picsum.photos/213"
-          },
-          {
-              "id": 6,
-              "name": "Microfonos",
-              "price": 2344,
-              "photo": "https://picsum.photos/214"
-          },
-          {
-              "id": 7,
-              "name": "Casquillos",
-              "price": 4544,
-              "photo": "https://picsum.photos/215"
-          },
-          {
-              "id": 8,
-              "name": "Lupas",
-              "price": 3221,
-              "photo": "https://picsum.photos/216"
-          },
-          {
-              "id": 9,
-              "name": "Fosforos",
-              "price": 4332,
-              "photo": "https://picsum.photos/217"
-          }
-    ]
-  }
+        }
+  ]
+}
