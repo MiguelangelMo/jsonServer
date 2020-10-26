@@ -1,59 +1,86 @@
 {
     "company": [
-      {
-              "id": 1,
-              "name": "Nutella",
-              "price": 1200,
-              "photo": "https://picsum.photos/200"
-          },
-          {
-              "id": 2,
-              "name": "Nitrogliserina",
-              "price": 4000,
-              "photo": "https://picsum.photos/201"
-          },
-          {
-              "id": 3,
-              "name": "Cascos",
-              "price": 1500,
-              "photo": "https://picsum.photos/202"
-          },
-          {
-              "id": 4,
-              "name": "Mangueras",
-              "price": 5000,
-              "photo": "https://picsum.photos/203"
-          },
-          {
-              "id": 5,
-              "name": "Radios",
-              "price": 9000,
-              "photo": "https://picsum.photos/204"
-          },
-          {
-              "id": 6,
-              "name": "Microfonos",
-              "price": 2344,
-              "photo": "https://picsum.photos/205"
-          },
-          {
-              "id": 7,
-              "name": "Casquillos",
-              "price": 4544,
-              "photo": "https://picsum.photos/206"
-          },
-          {
-              "id": 8,
-              "name": "Lupas",
-              "price": 3221,
-              "photo": "https://picsum.photos/207"
-          },
-          {
-              "id": 9,
-              "name": "Fosforos",
-              "price": 4332,
-              "photo": "https://picsum.photos/208"
-          }
+     {
+            "id": 1,
+            "name": "Nutella",
+            "price": 1200,
+            "photo": "https://picsum.photos/200",
+            "category": [
+                "dulces", "farmacos"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Nitrogliserina",
+            "price": 4000,
+            "photo": "https://picsum.photos/201",
+            "category": [
+                "DIETA", "Gym", "ropa"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Cascos",
+            "price": 1500,
+            "photo": "https://picsum.photos/202",
+            "category": [
+                "Gym", "farmacos"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Mangueras",
+            "price": 5000,
+            "photo": "https://picsum.photos/203",
+            "category": [
+                "DIETA", "retaurante"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Radios",
+            "price": 9000,
+            "photo": "https://picsum.photos/204",
+            "category": [
+                "dulces", "retaurante"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Microfonos",
+            "price": 2344,
+            "photo": "https://picsum.photos/205",
+            "category": [
+                "dulces", "farmacos"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Casquillos",
+            "price": 4544,
+            "photo": "https://picsum.photos/206",
+            "category": [
+                "ropa", "Gym"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Lupas",
+            "price": 3221,
+            "photo": "https://picsum.photos/207",
+            "category": [
+                "retaurante", "ropa"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Fosforos",
+            "price": 4332,
+            "photo": "https://picsum.photos/208",
+            "category": [
+                "Dulces", "DIETA"
+            ]
+        }://picsum.photos/208"
     ],
     "category": [
       {
