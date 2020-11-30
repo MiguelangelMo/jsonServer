@@ -5,14 +5,17 @@
             "name": "Nutella",
             "price": 1200,
             "photo": "https://picsum.photos/200",
-            "category": "Dulces y postres"
+            "category": "Dulces y postres",
+"whatsapp":"https://www.instagram.com/molerojose5?r=nametag"
         },
         {
             "id": 2,
             "name": "Nitrogliserina",
             "price": 4000,
             "photo": "https://picsum.photos/201",
-            "category": "Ropas y articulos"
+            "category": "Ropas y articulos",
+            "whatsapp":"https://www.instagram.com/molerojose5?r=nametag",
+            "instagram":"https://www.instagram.com/molerojose5?r=nametag"
         },
         {
             "id": 3,
@@ -26,14 +29,17 @@
             "name": "Mangueras",
             "price": 5000,
             "photo": "https://picsum.photos/203",
-            "category": "Comida y restauran"
+            "category": "Comida y restauran",
+            "whatsapp":"https://www.instagram.com/molerojose5?r=nametag",
+            "instagram":"https://www.instagram.com/molerojose5?r=nametag"
         },
         {
             "id": 5,
             "name": "Radios",
             "price": 9000,
             "photo": "https://picsum.photos/204",
-            "category": "Dulces y postres"
+            "category": "Dulces y postres",
+            "instagram":"https://www.instagram.com/molerojose5?r=nametag"
         },
         {
             "id": 6,
@@ -47,14 +53,16 @@
             "name": "Casquillos",
             "price": 4544,
             "photo": "https://picsum.photos/206",
-            "category": "Negocios y empresarios"
+            "category": "Negocios y empresarios",
+            "whatsapp":"https://www.instagram.com/molerojose5?r=nametag",
         },
         {
             "id": 8,
             "name": "Lupas",
             "price": 3221,
             "photo": "https://picsum.photos/207",
-            "category": "Comida y restauran"
+            "category": "Comida y restauran",
+            "whatsapp":"https://www.instagram.com/molerojose5?r=nametag",
         },
         {
             "id": 9,
