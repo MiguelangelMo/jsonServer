@@ -1,67 +1,149 @@
 {
     "company": [
         {
-                "id": 1,
-                "name": "Nutella",
-                "price": 1200,
-                "photo": "https://picsum.photos/200",
-                "category": "Dulces y postres"
-            },
-            {
-                "id": 2,
-                "name": "Nitrogliserina",
-                "price": 4000,
-                "photo": "https://picsum.photos/201",
-                "category": "Ropas y articulos"
-            },
-            {
-                "id": 3,
-                "name": "Cascos",
-                "price": 1500,
-                "photo": "https://picsum.photos/202",
-                "category": "Negocios y empresarios"
-            },
-            {
-                "id": 4,
-                "name": "Mangueras",
-                "price": 5000,
-                "photo": "https://picsum.photos/203",
-                "category": "Comida y restauran"
-            },
-            {
-                "id": 5,
-                "name": "Radios",
-                "price": 9000,
-                "photo": "https://picsum.photos/204",
-                "category": "Dulces y postres"
-            },
-            {
-                "id": 6,
-                "name": "Microfonos",
-                "price": 2344,
-                "photo": "https://picsum.photos/205",
-                "category": "Ropas y articulos"
-            },
-            {
-                "id": 7,
-                "name": "Casquillos",
-                "price": 4544,
-                "photo": "https://picsum.photos/206",
-                "category": "Negocios y empresarios"
-            },
-            {
-                "id": 8,
-                "name": "Lupas",
-                "price": 3221,
-                "photo": "https://picsum.photos/207",
-                "category": "Comida y restauran"
-            },
-            {
-                "id": 9,
-                "name": "Fosforos",
-                "price": 4332,
-                "photo": "https://picsum.photos/208",
-                "category": "Dulces y postres"
-            }
-      ]
-    }
+            "id": 1,
+            "name": "Nutella",
+            "price": 1200,
+            "photo": "https://picsum.photos/200",
+            "category": "Dulces y postres"
+        },
+        {
+            "id": 2,
+            "name": "Nitrogliserina",
+            "price": 4000,
+            "photo": "https://picsum.photos/201",
+            "category": "Ropas y articulos"
+        },
+        {
+            "id": 3,
+            "name": "Cascos",
+            "price": 1500,
+            "photo": "https://picsum.photos/202",
+            "category": "Negocios y empresarios"
+        },
+        {
+            "id": 4,
+            "name": "Mangueras",
+            "price": 5000,
+            "photo": "https://picsum.photos/203",
+            "category": "Comida y restauran"
+        },
+        {
+            "id": 5,
+            "name": "Radios",
+            "price": 9000,
+            "photo": "https://picsum.photos/204",
+            "category": "Dulces y postres"
+        },
+        {
+            "id": 6,
+            "name": "Microfonos",
+            "price": 2344,
+            "photo": "https://picsum.photos/205",
+            "category": "Ropas y articulos"
+        },
+        {
+            "id": 7,
+            "name": "Casquillos",
+            "price": 4544,
+            "photo": "https://picsum.photos/206",
+            "category": "Negocios y empresarios"
+        },
+        {
+            "id": 8,
+            "name": "Lupas",
+            "price": 3221,
+            "photo": "https://picsum.photos/207",
+            "category": "Comida y restauran"
+        },
+        {
+            "id": 9,
+            "name": "Fosforos",
+            "price": 4332,
+            "photo": "https://picsum.photos/208",
+            "category": "Dulces y postres"
+        }
+    ],
+    "category": [
+        {
+            "ropa": [
+                {
+                    "id": 1,
+                    "marca": "Gucci",
+                    "talla": "M",
+                    "color": "gris"
+                },
+                {
+                    "id": 2,
+                    "marca": "Tommy",
+                    "talla": "S",
+                    "color": "azul"
+                },
+                {
+                    "id": 3,
+                    "marca": "Prada",
+                    "talla": "L",
+                    "color": "blanca"
+                },
+                {
+                    "id": 4,
+                    "marca": "Cover",
+                    "talla": "ML",
+                    "color": "negra"
+                }
+            ],
+            "permuferia": [
+                {
+                    "id": 1,
+                    "marca": "212",
+                    "talla": "s",
+                    "price": 1233
+                },
+                {
+                    "id": 2,
+                    "marca": "Paco Raban",
+                    "talla": "s",
+                    "price": 1000
+                },
+                {
+                    "id": 3,
+                    "marca": "Toy toy",
+                    "talla": "g",
+                    "price": 8766
+                },
+                {
+                    "id": 4,
+                    "marca": "listhern",
+                    "talla": "m",
+                    "price": 2344
+                }
+            ],
+            "cafe": [
+                {
+                    "id": 1,
+                    "marca": "Nestle",
+                    "talla": "s",
+                    "price": 122
+                },
+                {
+                    "id": 2,
+                    "marca": "Paco Raban",
+                    "talla": "s",
+                    "price": 142
+                },
+                {
+                    "id": 3,
+                    "marca": "Toy toy",
+                    "talla": "g",
+                    "price": 500
+                },
+                {
+                    "id": 4,
+                    "marca": "listhern",
+                    "talla": "m",
+                    "price": 345
+                }
+            ]
+        }
+    ]
+}
