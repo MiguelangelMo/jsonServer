@@ -72,84 +72,146 @@
             "category": "Dulces y postres"
         }
     ],
-    "category": [
-        {
-            "ropa": [
+    "productos": [
                 {
                     "id": 1,
                     "marca": "Gucci",
                     "talla": "M",
-                    "color": "gris"
+                    "color": "gris",
+                    "idEmpresa": 1
                 },
                 {
                     "id": 2,
                     "marca": "Tommy",
                     "talla": "S",
-                    "color": "azul"
+                    "color": "azul",
+                    "idEmpresa": 3
                 },
                 {
                     "id": 3,
                     "marca": "Prada",
                     "talla": "L",
-                    "color": "blanca"
+                    "color": "blanca",
+                    "idEmpresa":2
                 },
                 {
                     "id": 4,
                     "marca": "Cover",
                     "talla": "ML",
-                    "color": "negra"
-                }
-            ],
-            "permuferia": [
+                    "color": "negra",
+                    "idEmpresa":6
+                },
                 {
                     "id": 1,
                     "marca": "212",
                     "talla": "s",
-                    "price": 1233
+                    "price": 1233,
+                    "idEmpresa":5
                 },
                 {
                     "id": 2,
                     "marca": "Paco Raban",
                     "talla": "s",
-                    "price": 1000
+                    "price": 1000,
+                    "idEmpresa":7
                 },
                 {
                     "id": 3,
                     "marca": "Toy toy",
                     "talla": "g",
-                    "price": 8766
+                    "price": 8766,
+                    "idEmpresa":8
                 },
                 {
                     "id": 4,
                     "marca": "listhern",
                     "talla": "m",
-                    "price": 2344
-                }
-            ],
-            "cafe": [
+                    "price": 2344,
+                    "idEmpresa":9
+                },
                 {
                     "id": 1,
                     "marca": "Nestle",
                     "talla": "s",
-                    "price": 122
+                    "price": 122,
+                    "idEmpresa":2
                 },
                 {
                     "id": 2,
                     "marca": "Paco Raban",
                     "talla": "s",
-                    "price": 142
+                    "price": 142,
+                    "idEmpresa":4
                 },
                 {
                     "id": 3,
                     "marca": "Toy toy",
                     "talla": "g",
-                    "price": 500
+                    "price": 500,
+                    "idEmpresa":6
                 },
                 {
                     "id": 4,
                     "marca": "listhern",
                     "talla": "m",
-                    "price": 345
+                    "price": 345,
+                    "idEmpresa":8
+                },
+                {
+                    "id": 1,
+                    "marca": "Gucci",
+                    "talla": "M",
+                    "color": "gris",
+                    "idEmpresa": 1
+                },
+                {
+                    "id": 2,
+                    "marca": "Tommy",
+                    "talla": "S",
+                    "color": "azul",
+                    "idEmpresa": 3
+                },
+                {
+                    "id": 3,
+                    "marca": "Prada",
+                    "talla": "L",
+                    "color": "blanca",
+                    "idEmpresa":3
+                },
+                {
+                    "id": 4,
+                    "marca": "Cover",
+                    "talla": "ML",
+                    "color": "negra",
+                    "idEmpresa":4
+                },
+                {
+                    "id": 1,
+                    "marca": "212",
+                    "talla": "s",
+                    "price": 1233,
+                    "idEmpresa":3
+                },
+                {
+                    "id": 2,
+                    "marca": "Paco Raban",
+                    "talla": "s",
+                    "price": 1000,
+                    "idEmpresa":7
+                },
+                {
+                    "id": 3,
+                    "marca": "Toy toy",
+                    "talla": "g",
+                    "price": 8766,
+                    "idEmpresa":7
+                },
+                {
+                    "id": 4,
+                    "marca": "listhern",
+                    "talla": "m",
+                    "price": 2344,
+                    "idEmpresa":9
                 }
             ]
         }
