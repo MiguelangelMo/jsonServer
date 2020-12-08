@@ -55,6 +55,21 @@
             "photo": "https://picsum.photos/206",
             "category": "Negocios y empresarios",
             "whatsapp": "https://www.instagram.com/molerojose5?r=nametag"
+        },
+        {
+            "id": 8,
+            "name": "Lupas",
+            "price": 3221,
+            "photo": "https://picsum.photos/207",
+            "category": "Comida y restauran",
+            "whatsapp": "https://www.instagram.com/molerojose5?r=nametag"
+        },
+        {
+            "id": 9,
+            "name": "Fosforos",
+            "price": 4332,
+            "photo": "https://picsum.photos/208",
+            "category": "Dulces y postres"
         }
     ],
     "productos": [
@@ -124,6 +139,77 @@
                             "talla": "M",
                             "color": "Rojo",
                             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRQCk5FVOZEE4XIGCtHBOYyUxqZuEDbHhCg&usqp=CAU",
+                            "price": 11233,
+                            "idEmpresa": 1
+                        }
+                    ]
+                }
+            ],
+            "2": [
+                {
+                    "perfume": [
+                        {
+                            "id": 1,
+                            "marca": "Gucci",
+                            "talla": "M",
+                            "color": "gris",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNg3MuDXc9c8g674BZhfaecg7Q5faMFyhRWg&usqp=CAU",
+                            "price": 11233,
+                            "idEmpresa": 1
+                        },
+                        {
+                            "id": 2,
+                            "marca": "prada",
+                            "talla": "S",
+                            "color": "gris",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemynZQEEsToUx3uHVbJOhPwztkTHb_y-zvA&usqp=CAU",
+                            "price": 11833,
+                            "idEmpresa": 1
+                        },
+                        {
+                            "id": 3,
+                            "marca": "Paco Raban",
+                            "talla": "L",
+                            "color": "gris",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhJUCNKfLHd7Thma9r7mZT6ncMPLp0XcbHg&usqp=CAU",
+                            "price": 22233,
+                            "idEmpresa": 1
+                        }
+                    ],
+                    "ropa": [
+                        {
+                            "id": 1,
+                            "marca": "Prada",
+                            "talla": "M",
+                            "color": "azul",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ0KhRTWulsHpkz-Xr0qGa_3bojytqNw9sUg&usqp=CAU",
+                            "price": 11233,
+                            "idEmpresa": 1
+                        },
+                        {
+                            "id": 2,
+                            "marca": "Tommy",
+                            "talla": "M",
+                            "color": "Negro",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNSD77N5qxy6Z4OLnkNXDfoByndf0tu6V-A&usqp=CAU",
+                            "price": 11233,
+                            "idEmpresa": 1
+                        },
+                        {
+                            "id": 3,
+                            "marca": "Levis",
+                            "talla": "M",
+                            "color": "Gris",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8m_WoTpCfZoI39JrAogPWo9DPso63As8vJQ&usqp=CAU",
+                            "price": 11233,
+                            "idEmpresa": 1
+                        },
+                        {
+                            "id": 4,
+                            "marca": "Gucci",
+                            "talla": "M",
+                            "color": "Rojo",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7MFcujfg5g8qL6rSnzk43LVN4pxlan_C1w&usqp=CAU",
                             "price": 11233,
                             "idEmpresa": 1
                         }
