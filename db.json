@@ -55,21 +55,6 @@
             "photo": "https://picsum.photos/206",
             "category": "Negocios y empresarios",
             "whatsapp": "https://www.instagram.com/molerojose5?r=nametag"
-        },
-        {
-            "id": 8,
-            "name": "Lupas",
-            "price": 3221,
-            "photo": "https://picsum.photos/207",
-            "category": "Comida y restauran",
-            "whatsapp": "https://www.instagram.com/molerojose5?r=nametag"
-        },
-        {
-            "id": 9,
-            "name": "Fosforos",
-            "price": 4332,
-            "photo": "https://picsum.photos/208",
-            "category": "Dulces y postres"
         }
     ],
     "productos": [
