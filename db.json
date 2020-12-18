@@ -22,7 +22,9 @@
             "name": "Cascos",
             "price": 1500,
             "photo": "https://picsum.photos/202",
-            "category": "Negocios y empresarios"
+            "category": "Negocios y empresarios",
+            "telefono": 1134567890,
+            "email": "myEmail@gmail.com"
         },
         {
             "id": 4,
