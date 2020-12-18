@@ -33,7 +33,8 @@
             "photo": "https://picsum.photos/203",
             "category": "Comida y restauran",
             "whatsapp": "https://www.instagram.com/molerojose5?r=nametag",
-            "instagram": "https://www.instagram.com/molerojose5?r=nametag"
+            "instagram": "https://www.instagram.com/molerojose5?r=nametag",
+            "telefono": 1143658709
         },
         {
             "id": 5,
@@ -41,7 +42,8 @@
             "price": 9000,
             "photo": "https://picsum.photos/204",
             "category": "Dulces y postres",
-            "instagram": "https://www.instagram.com/molerojose5?r=nametag"
+            "instagram": "https://www.instagram.com/molerojose5?r=nametag",
+            "email":"email@email.com"
         },
         {
             "id": 6,
