@@ -28,18 +28,18 @@
             "horario" : [
                 {
                     "semana": [
-                            {
-                                "semana": "9:00 a 19:00",
-                            }
+                         {
+                             "semana": "9:00 a 19:00"
+                         }
                     ],
                     "sabado": [
                         {
-                             "sabado": "12:00 a 19:00",
+                             "sabado": "12:00 a 19:00"
                         }    
                     ],
                     "domingo": [
                         {
-                              "domingo": "Cerrado",
+                              "domingo": "Cerrado"
                         }  
                     ]
                 }
