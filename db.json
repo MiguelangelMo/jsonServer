@@ -24,7 +24,26 @@
             "photo": "https://picsum.photos/202",
             "category": "Negocios y empresarios",
             "telefono": 1134567890,
-            "email": "myEmail@gmail.com"
+            "email": "myEmail@gmail.com",
+            "horario" : [
+                {
+                    "semana": [
+                            {
+                                "semana": "9:00 a 19:00",
+                            }
+                    ],
+                    "sabado": [
+                        {
+                             "sabado": "12:00 a 19:00",
+                        }    
+                    ],
+                    "domingo": [
+                        {
+                              "domingo": "Cerrado",
+                        }  
+                    ]
+                }
+            ]
         },
         {
             "id": 4,
