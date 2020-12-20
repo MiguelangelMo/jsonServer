@@ -6,23 +6,7 @@
             "price": 1200,
             "photo": "https://picsum.photos/200",
             "category": "Dulces y postres",
-            "whatsapp": "https://www.instagram.com/molerojose5?r=nametag"
-        },
-        {
-            "id": 2,
-            "name": "Nitrogliserina",
-            "price": 4000,
-            "photo": "https://picsum.photos/201",
-            "category": "Ropas y articulos",
             "whatsapp": "https://www.instagram.com/molerojose5?r=nametag",
-            "instagram": "https://www.instagram.com/molerojose5?r=nametag"
-        },
-        {
-            "id": 3,
-            "name": "Cascos",
-            "price": 1500,
-            "photo": "https://picsum.photos/202",
-            "category": "Negocios y empresarios",
             "telefono": 1134567890,
             "email": "myEmail@gmail.com",
             "horario" : [
@@ -43,7 +27,25 @@
                         }  
                     ]
                 }
-            ]
+            ],
+            "description": "Somos una empresa que venimos de parte del clan akatsuki, asi que pilas papa.",
+            "rubro":"Venta de servicios eléctronicos"
+        },
+        {
+            "id": 2,
+            "name": "Nitrogliserina",
+            "price": 4000,
+            "photo": "https://picsum.photos/201",
+            "category": "Ropas y articulos",
+            "whatsapp": "https://www.instagram.com/molerojose5?r=nametag",
+            "instagram": "https://www.instagram.com/molerojose5?r=nametag"
+        },
+        {
+            "id": 3,
+            "name": "Cascos",
+            "price": 1500,
+            "photo": "https://picsum.photos/202",
+            "category": "Negocios y empresarios"
         },
         {
             "id": 4,
