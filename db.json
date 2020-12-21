@@ -97,7 +97,7 @@
                             "color": "gris",
                             "image": "https://resources.claroshop.com/medios-plazavip/s2/11733/1440411/5ede81d9aadbb-perfume-gucci-guilty-para-mujer-de-gucci-eau-de-toilette-75ml-1600x1600.jpg",
                             "price": 11233,
-                            "description": "Perfume Gucci",
+                            "name": "Perfume Gucci",
                             "idEmpresa": 1
                         },
                         {
@@ -107,7 +107,7 @@
                             "color": "gris",
                             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuMR3O8_T6S8Kbhay7vz113bUTCb5XfQ32g&usqp=CAU",
                             "price": 11833,
-                            "description": "Camiseta Prada",
+                            "name": "Camiseta Prada",
                             "idEmpresa": 1
                         },
                         {
