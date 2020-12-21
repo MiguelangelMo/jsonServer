@@ -11,21 +11,9 @@
             "email": "myEmail@gmail.com",
             "horario" : [
                 {
-                    "semana": [
-                         {
-                             "semana": "9:00 a 19:00"
-                         }
-                    ],
-                    "sabado": [
-                        {
-                             "sabado": "12:00 a 19:00"
-                        }    
-                    ],
-                    "domingo": [
-                        {
-                              "domingo": "Cerrado"
-                        }  
-                    ]
+                    "semana": { "semana": "9:00 a 19:00" }
+                    "sabado": { "sabado": "12:00 a 19:00" }    
+                    "domingo": { "domingo": "Cerrado" }  
                 }
             ],
             "description": "Somos una empresa que venimos de parte del clan akatsuki, asi que pilas papa.",
